@@ -1,0 +1,14 @@
+.card__list {
+    list-style-type: none;
+    padding: 0;
+}
+.card_item {
+    padding: 25px;
+    box-shadow: 1px 1px 10px grey;
+    border-radius: 7px;
+    overflow: hidden;
+    margin: 20px auto;
+}
+.card_item h2 {
+    color: brown;
+}
